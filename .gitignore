@@ -23,9 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
-git config --global user.name "Dharma030"
 
-git config --global user.email "borntowindharma@gmail.com"
+
 
 
 
