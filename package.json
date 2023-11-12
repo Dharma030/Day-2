@@ -1,7 +1,6 @@
 {
   "name": "day-2",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,5 +14,15 @@
     "fs": "^0.0.1-security",
     "nodemon": "^3.0.1",
     "path": "^0.12.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharma030/Day-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dharma030/Day-2/issues"
+  },
+  "homepage": "https://github.com/Dharma030/Day-2#readme",
+  "description": ""
 }
